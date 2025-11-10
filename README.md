@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**MtetoDesigns/MtetoDesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm Ayanda Mteto
 
-Here are some ideas to get you started:
+- 📋 Dynamic data analyst with over 7 years of SARS tax auditing experience  
+- 🐍 Python is my primary language (plus Jupyter & SQL)  
+- 🔧 I specialize in data cleaning & analysis (pandas, NumPy), visualization (matplotlib, seaborn), and web scraping (Scrapy, Playwright)  
+- 📈 I turn raw data into actionable insights and data‑driven solutions  
+- 🌱 Currently learning data storytelling  
+- 🤝 Open to collaborate on data analysis projects (volunteer or otherwise)  
+- 💌 Let's connect on [LinkedIn](https://www.linkedin.com/in/ayanda-mteto-975507284/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MtetoDesigns&layout=compact&theme=default)
