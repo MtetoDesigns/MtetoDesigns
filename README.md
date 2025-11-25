@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Ayanda Mteto
 
-- 📋 Dynamic data analyst with over 7 years of SARS tax auditing experience  
+- 📋 Data analyst with over 7 years of SARS tax auditing experience  
 - 🐍 Python is my primary language (plus Jupyter & SQL)  
 - 🔧 I specialize in data cleaning & analysis (pandas, NumPy), visualization (matplotlib, seaborn), and web scraping (Camoufoux, Playwright)  
 - 📈 I turn raw data into actionable insights and data‑driven solutions  
